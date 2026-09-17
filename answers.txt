@@ -1,3 +1,5 @@
  1. with agile development problems are identified easily, and it encourages teamwork and communication. Two cons are that it can be hard to predict a timeline and scope can change a lot requring a lot of extra planning work. 
 
+ 2. The Scrum master runs the scrum during standup, and helps remove blockers that members of the team may be facing. The product owner defines the problem and is in charge of representing the customer
+
  
