@@ -2,4 +2,7 @@
 
  2. The Scrum master runs the scrum during standup, and helps remove blockers that members of the team may be facing. The product owner defines the problem and is in charge of representing the customer
 
- 
+ 3. 
+  a. Sprint Planning, what tasks will the team work on and how that work will be completed 
+  b. Daily Stand-up, what was acomplished yesterday, what will be done today
+  c. what was completed during alst sprint, overall sprint feedback. 
