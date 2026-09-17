@@ -6,3 +6,6 @@
   a. Sprint Planning, what tasks will the team work on and how that work will be completed 
   b. Daily Stand-up, what was acomplished yesterday, what will be done today
   c. what was completed during alst sprint, overall sprint feedback. 
+
+  4. An Epic is a large project that needs to be broken into smaller subtasks, a Story is specific feature or requirement, a task is a piece of work that is needed to acomplish something, and a bug is a small fix to a current issue on the service. 
+  
